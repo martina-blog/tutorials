@@ -1,8 +1,8 @@
-# Carbon – The Only API You Need Handling Date and Time
-https://www.missingparenthesis.com/laravel/carbon-the-only-api-you-need-handling-date-and-time/
+# How to handle Collections outside Laravel
+https://www.missingparenthesis.com/laravel/how-to-handle-collections-outside-laravel/
 
 ## Prerequisities
-- PHP 8.1
+- PHP 8 or higher
 - Composer
 
 ## Getting Started
