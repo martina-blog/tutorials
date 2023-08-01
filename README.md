@@ -36,6 +36,9 @@ https://www.missingparenthesis.com/blog/how-to-declare-variables-in-php-basics-a
 ### How to Write Comments in PHP
 https://www.missingparenthesis.com/blog/how-to-write-comments-in-php
 
+### The Complete Guide to String Manipulation in PHP: Basic and Advanced Techniques
+https://www.missingparenthesis.com/blog/the-complete-guide-to-string-manipulation-in-php-basic-and-advanced-techniques
+
 ## Category: Puzzles
 
 ### Balanced Parenthesis: Ensuring Proper Nesting and Order
