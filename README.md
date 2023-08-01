@@ -15,6 +15,9 @@ https://www.missingparenthesis.com/blog/15-useful-laravel-collection-methods-you
 ### How to Handle URL Generation in Laravel 10?
 https://www.missingparenthesis.com/blog/how-to-handle-url-generation-in-laravel-10
 
+### How to Build RESTful API with Laravel 10: A Comprehensive Guide
+https://www.missingparenthesis.com/blog/how-to-build-restful-api-with-laravel-10-a-comprehensive-guide
+
 
 ## Category: PHP
 
