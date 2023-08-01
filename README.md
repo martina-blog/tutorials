@@ -6,11 +6,14 @@ This repository contains the source code for the tutorials on Missing Parenthesi
 ### Carbon - The Only API You Need Handling Date and Time
 https://www.missingparenthesis.com/blog/carbon-the-only-api-you-need-handling-date-and-time
 
-### How to Declare Variables in PHP: Basics & Examples
-https://www.missingparenthesis.com/blog/how-to-declare-variables-in-php-basics-and-examples
-
 ### How to handle Collections outside Laravel
 https://www.missingparenthesis.com/blog/how-to-handle-collections-outside-laravel
+
+### 15 Useful Laravel Collection Methods You Have to Know
+https://www.missingparenthesis.com/blog/15-useful-laravel-collection-methods-you-have-to-know
+
+### How to Handle URL Generation in Laravel 10?
+https://www.missingparenthesis.com/blog/how-to-handle-url-generation-in-laravel-10
 
 
 ## Category: PHP
@@ -23,6 +26,12 @@ https://www.missingparenthesis.com/blog/this-is-the-intro-you-need-to-start-with
 
 ### What are Constants and How to Define Them in PHP?
 https://www.missingparenthesis.com/blog/what-are-constants-and-how-to-define-them-in-php
+
+### How to Declare Variables in PHP: Basics & Examples
+https://www.missingparenthesis.com/blog/how-to-declare-variables-in-php-basics-and-examples
+
+### How to Write Comments in PHP
+https://www.missingparenthesis.com/blog/how-to-write-comments-in-php
 
 ## Category: Puzzles
 
