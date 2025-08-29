@@ -43,3 +43,8 @@ https://www.missingparenthesis.com/blog/the-complete-guide-to-string-manipulatio
 
 ### Balanced Parenthesis: Ensuring Proper Nesting and Order
 https://www.missingparenthesis.com/blog/balanced-parenthesis-ensuring-proper-nesting-and-order
+
+## Category: NodeJs
+
+### Breaking the Loop: Implementing the Circuit Breaker Pattern in Node.js with Fastify
+https://missingparenthesis.com/blog/breaking-the-loop-implementing-the-circuit-breaker-pattern-in-node-js-with-fastify/
